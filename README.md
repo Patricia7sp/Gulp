@@ -1,2 +1,2 @@
 # Gulp
-Estudando sobre Gulp,apredendo a constuir Build
+Estudando sobre Gulp, apredendo a constuir Build
